@@ -1,0 +1,8 @@
+﻿.card-body {
+    transition: transform .2s
+}
+
+
+    .card-body:hover {
+        transform: scale(1.5);
+    }
